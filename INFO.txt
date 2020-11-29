@@ -1,0 +1,1 @@
+input and three-digit numbers and output word name of this numbers
